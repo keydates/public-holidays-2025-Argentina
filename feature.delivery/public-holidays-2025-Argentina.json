@@ -1,0 +1,93 @@
+{
+  "product": "Argentina Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the start of the new year"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of workers' rights"
+    },
+    {
+      "title": "Revolution Day of May",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-25T12:00:00",
+      "endDate": "2025-05-25T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "teal",
+      "description": "Commemoration of the May Revolution"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-09T12:00:00",
+      "endDate": "2025-07-09T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of Argentina's independence"
+    },
+    {
+      "title": "National Flag Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-20T12:00:00",
+      "endDate": "2025-06-20T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "blue",
+      "description": "Commemoration of the death of Manuel Belgrano"
+    },
+    {
+      "title": "Day of Respect for Cultural Diversity",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-12T12:00:00",
+      "endDate": "2025-10-12T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of cultural diversity in Argentina"
+    },
+    {
+      "title": "National Sovereignty Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-24T12:00:00",
+      "endDate": "2025-11-24T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Commemoration of the Battle of Vuelta de Obligado"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Argentina",
+      "product": "Argentina Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
